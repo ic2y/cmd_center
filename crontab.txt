@@ -1,1 +1,1 @@
-* */1 * * * ~/update_weibo.sh
+* */1 * * * ~/shell/update.sh
